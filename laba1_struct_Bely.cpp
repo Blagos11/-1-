@@ -26,6 +26,8 @@ int mod_inverse(int a, int n) {
 }
 
 int main() {
+    std::cout << "Беляков Никита Юрьевич" << std::endl;
+    std::cout << "090301-ПОВа-о23" << std::endl;
     int a, n;
     std::cout << "Введите a и n: ";
     std::cin >> a >> n;
